@@ -1,62 +1,122 @@
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="Prerna Divakar — Data Science & ML Engineer in progress"/>
+  <img src="./banner.svg" width="100%" alt="Prerna Divakar terminal banner"/>
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=2800&pause=700&color=00FF66&background=00000000&center=true&vCenter=true&width=700&lines=%3E+loading+data+pipelines...;%3E+training+models...;%3E+rendering+dashboards...;%3E+status%3A+ready" alt="terminal typing"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prerna-d-130045283"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66&labelColor=000000"/></a>
+  <img src="https://img.shields.io/badge/PROFILE_VIEWS-000000?style=for-the-badge&logoColor=FF1744&labelColor=000000"/>
+  <img src="https://komarev.com/ghpvc/?username=Prernadivakar03&style=for-the-badge&color=0d1117&label=+"/>
+  <img src="https://img.shields.io/github/followers/Prernadivakar03?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=00FF66&label=FOLLOWERS"/>
+</p>
+
+<img src="./divider.svg" width="100%"/>
+
+## `>_` about
+
+```
+root@prerna:~$ cat profile.log
+
+Data Science / ML Engineer in progress.
+I take raw, messy datasets and push them through a full pipeline —
+clean → model → serve → visualize — until they're something a
+person can actually make a decision from.
+
+CURRENT FOCUS   : ML-driven analytics tools + the apps around them
+LEARNING        : statistical testing, transformers, ML in the cloud
+STACK           : Python · Django · React · SQL · PostgreSQL · Power BI
+CONTACT         : linkedin.com/in/prerna-d-130045283
+```
+
+<img src="./divider.svg" width="100%"/>
+
+## `>_` deployed builds
+
+```
+[ExperimentX]              STATUS: LIVE       LANG: JavaScript
+> AI-powered A/B testing platform. Deterministic variant assignment,
+  conversion tracking, and both Bayesian + frequentist significance
+  testing — so results don't hinge on a single p-value.
+
+[DRRAS]                    STATUS: LIVE       LANG: Python
+> Disaster Relief Resource Allocation System — real-time + historical
+  data feeding ML-based disaster prediction, built to route relief
+  resources across Maharashtra before need spikes, not after.
+
+[CYBERDELAY]                STATUS: LIVE       LANG: HTML
+> Simulation modeling how breach-detection delay compounds damage —
+  turns "how fast did you notice" into a quantified risk curve.
+
+[SCI-ARTICLE-CLASSIFIER]    STATUS: LIVE       LANG: Python
+> Self-attention network vs. TF-IDF baseline for scientific article
+  classification, benchmarked head-to-head with an interactive
+  Streamlit dashboard.
+```
+
+<div align="center">
+
+<a href="https://github.com/Prernadivakar03/ExperimentX">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Prernadivakar03&repo=ExperimentX&theme=github-dark&bg_color=0d1117&title_color=00FF66&icon_color=FF1744&text_color=8fffb0&border_color=1c2620"/>
+</a>
+<a href="https://github.com/Prernadivakar03/DRRAS">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Prernadivakar03&repo=DRRAS&theme=github-dark&bg_color=0d1117&title_color=00FF66&icon_color=FF1744&text_color=8fffb0&border_color=1c2620"/>
+</a>
 <br/>
+<a href="https://github.com/Prernadivakar03/cyberdelay">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Prernadivakar03&repo=cyberdelay&theme=github-dark&bg_color=0d1117&title_color=00FF66&icon_color=FF1744&text_color=8fffb0&border_color=1c2620"/>
+</a>
+<a href="https://github.com/Prernadivakar03/sci-article-classifier">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Prernadivakar03&repo=sci-article-classifier&theme=github-dark&bg_color=0d1117&title_color=00FF66&icon_color=FF1744&text_color=8fffb0&border_color=1c2620"/>
+</a>
 
-I work in the space between a clean notebook and a system someone else can rely on. Most of what I build starts with a messy dataset and ends with a model, a dashboard, or an app that turns that data into an actual decision — not just a chart.
+</div>
 
-**Currently:** building ML-driven analytics tools and the full-stack apps around them.
-**Learning:** statistical testing at depth, transformer architectures, and getting ML models into the cloud reliably.
-**Talk to me about:** A/B testing design, classification models, or building dashboards people actually use.
+<img src="./divider.svg" width="100%"/>
 
-📫 [linkedin.com/in/prerna-d-130045283](https://www.linkedin.com/in/prerna-d-130045283)
+## `>_` stack
 
----
+<div align="center">
 
-## What I've built
+<img src="https://skillicons.dev/icons?i=python,django,react,js,html,css&theme=dark"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FF1744"/>
+<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=FF1744"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=FF1744"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1744"/>
 
-**🧬 ExperimentX**
-An A/B testing platform, built because most testing tools either hide the statistics or get them wrong. Handles deterministic variant assignment so users don't flicker between groups, tracks conversions end-to-end, and gives both frequentist and Bayesian reads on results — so you're not stuck trusting a single p-value.
-`JavaScript`
+</div>
 
-**🚨 DRRAS — Disaster Relief Resource Allocation System**
-Built around a real problem: relief resources in Maharashtra don't always go where they're needed most, fast enough. Combines real-time and historical data with ML-based disaster prediction to help allocate resources ahead of need rather than after.
-`Python`
+<img src="./divider.svg" width="100%"/>
 
-**🛡️ CyberDelay**
-A simulation-driven look at a simple but under-discussed question: how much does detection *time* matter after a breach? Models the relationship between how long an attack goes unnoticed and how much damage it ends up causing.
-`HTML`
+## `>_` system analytics
 
-**📄 Sci-Article-Classifier**
-Classifies scientific articles by comparing a self-attention network against a TF-IDF baseline — a small, honest benchmark of "do transformers actually earn their complexity here." Shipped with an interactive Streamlit dashboard so the comparison is explorable, not just a notebook output.
-`Python`
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prernadivakar03&show_icons=true&theme=github-dark&bg_color=0d1117&title_color=00FF66&icon_color=FF1744&text_color=8fffb0&border_color=1c2620&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prernadivakar03&layout=compact&theme=github-dark&bg_color=0d1117&title_color=00FF66&text_color=8fffb0&border_color=1c2620"/>
 
-## Stack
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prernadivakar03&theme=dark&background=0D1117&ring=FF1744&fire=00FF66&currStreakLabel=00FF66&border=1c2620"/>
 
-**Languages & Frameworks**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prernadivakar03&bg_color=0d1117&color=00FF66&line=FF1744&point=8fffb0&area=true&hide_border=true"/>
 
-**Data & ML**
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</div>
 
-**Data & Tools**
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+### `>_` trophy case
 
----
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Prernadivakar03&theme=darkhub&no-frame=true&row=1&column=6"/>
+</div>
 
-<sub>Open to internships and collaborations — if you've got a dataset and a real question attached to it, I'm interested.</sub>
+<img src="./divider.svg" width="100%"/>
+
+<p align="center" style="font-family: Courier New, monospace;">
+<code>$ echo "open to internships & collabs — bring a dataset, I'll bring the pipeline"</code>
+</p>
